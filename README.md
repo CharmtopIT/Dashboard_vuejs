@@ -1,6 +1,7 @@
 # Dashboard_vuejs
 
 簡單的HTML+CSS+JS
+亦可參考：https://echarts.apache.org/examples/en/index.html
 
 效果如圖：
 
